@@ -251,7 +251,7 @@
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string>Inject "name" as (data)"#display" to disable graphics drivers on NVidia</string>
+				<string>Inject &quot;name&quot; as (data)&quot;#display&quot; to disable graphics drivers on NVidia</string>
 				<key>Device</key>
 				<string>NVidia</string>
 				<key>Disabled</key>
@@ -263,7 +263,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Inject "IOName" as "#display" to disable graphics drivers on NVidia</string>
+				<string>Inject &quot;IOName&quot; as &quot;#display&quot; to disable graphics drivers on NVidia</string>
 				<key>Device</key>
 				<string>NVidia</string>
 				<key>Disabled</key>
@@ -287,7 +287,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Inject "name" as (data)"#display" to disable graphics drivers on AMD</string>
+				<string>Inject &quot;name&quot; as (data)&quot;#display&quot; to disable graphics drivers on AMD</string>
 				<key>Device</key>
 				<string>ATI</string>
 				<key>Disabled</key>
@@ -299,7 +299,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Inject "IOName" as "#display" to disable graphics drivers on AMD</string>
+				<string>Inject &quot;IOName&quot; as &quot;#display&quot; to disable graphics drivers on AMD</string>
 				<key>Device</key>
 				<string>ATI</string>
 				<key>Disabled</key>
@@ -615,7 +615,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02645600QXHMHKA8</string>
+		<string></string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -645,9 +645,9 @@
 		<key>ProductName</key>
 		<string>MacBookPro13,1</string>
 		<key>SerialNumber</key>
-		<string>C02SNWYVGVC1</string>
+		<string></string>
 		<key>SmUUID</key>
-		<string>087B542A-3DEE-41CA-BAE8-4699C1C3FF79</string>
+		<string></string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
