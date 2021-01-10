@@ -13,6 +13,8 @@ If you want to use this config to your hackintosh machine, please don't forget t
 
 screenShot
 
+![info](https://loyioblog.oss-cn-beijing.aliyuncs.com/LoyioBlog/202101/0110rIyCfc.png)
+
 ![Image 2020-12-30 at 5.40 PM](https://loyioblog.oss-cn-beijing.aliyuncs.com/LoyioBlog/xzv89.jpg)
 
 
